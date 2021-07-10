@@ -1810,3 +1810,17 @@ textarea.w-select {
 .w-condition-invisible {
   display: none !important;
 }
+
+.video{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.video2{
+  padding-top: 10%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
